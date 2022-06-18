@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.snavbar {
+  height: 100%;
+  position: fixed;
+}
+
+.posts {
+  height: 100%;
+  width: 70%;
+  margin: auto;
+  position: fixed;
+}
+
+.img-sm {
+  width: 100px;
+  height: 100px;
+}
+
+.img-bg {
+  height: 50%;
+  width: 50%;
+}
